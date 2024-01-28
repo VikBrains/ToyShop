@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PT_jar</output-path>
+    <root id="archive" name="PT.jar">
+      <element id="module-output" name="PT" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/commons-io-2.11.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

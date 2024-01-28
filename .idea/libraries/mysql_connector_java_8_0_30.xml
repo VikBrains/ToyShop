@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.30">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/mysql-connector-java-8.0.30.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jfreechart-1.5.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jaxb-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jaxb-runtime.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/javax.activation-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jaxb-xjc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jaxb-jxc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/istack-commons-runtime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
